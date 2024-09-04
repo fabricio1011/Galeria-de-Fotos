@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: white;
+   
+   }
+   h3{
+       text-align: center;
+       color: white;
+       
+       
+   }
+   img{
+       width: 35vh;
+       height: 30vh;
+       border: solid white;
+       background-color: black;
+       border-radius: 6vh;
+   }
+   table{
+       margin-left: 80px;
+   }
+   
+   
+   body{
+       background-color: black
+   }
+   td{
+       box-shadow: 10px 10px 10px;
+       border: solid white 7px;
+   }
